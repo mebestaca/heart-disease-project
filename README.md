@@ -79,5 +79,3 @@ The following are the features we'll use to predict our target variable (heart d
 14. target - have disease or not (1=yes, 0=no) (= the predicted attribute)
 
 **Note:** No personal identifiable information (PPI) can be found in the dataset.
-
-**Additional Note:** This project was done with the help of a machine learning tutorial found at https://zerotomastery.io/
